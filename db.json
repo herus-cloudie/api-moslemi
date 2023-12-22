@@ -181,8 +181,8 @@
         "price" : "25000000",
         "img" : "/phonePic/13Tpro.webp",
         "id" : "12",
-        "description" : "2023",
-        "model" : "",
+        "description" : "",
+        "model" : "2023",
         "detailes" : {
             "ram" : "12",
             "memory" : "256",
